@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## 3d-scene in browser
 
-A 3d scene rendered in the browser using [three.js] [https://threejs.org/] and react.
+A 3d scene rendered in the browser using [three.js] (https://threejs.org/) and react.
 
 ## Demo
 
