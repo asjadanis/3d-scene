@@ -17,6 +17,13 @@ git clone https://github.com/asjadanis/3d-scene.git <br>
 npm install <br>
 npm start <br>
 
+## Credits
+
+models used from [Sketchfab](https://sketchfab.com/) <br>
+[Phoenix](https://sketchfab.com/models/844ba0cf144a413ea92c779f18912042) <br>
+[Car](https://sketchfab.com/models/128d863ab5c8467f80939cabe8b3fc34) <br>
+[Bird](https://sketchfab.com/models/eb843194e06d429ebef7dd4aa7e265c1) <br>
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
