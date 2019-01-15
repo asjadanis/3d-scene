@@ -1,8 +1,21 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## 3d-scene in browser
 
-In the project directory, you can run:
+A 3d scene rendered in the browser using [three.js] [https://threejs.org/] and react.
+
+## Demo
+
+https://threejs-scene.herokuapp.com/ <br>
+
+![Alt Text](https://media.giphy.com/media/41cZesgoQA0htyJC7e/giphy.gif)
+
+
+## To Run locally and experiment
+
+git clone https://github.com/asjadanis/3d-scene.git <br>
+npm install <br>
+npm start <br>
 
 ### `npm start`
 
