@@ -6,7 +6,7 @@ A 3d scene rendered in the browser using [three.js](https://threejs.org/) and re
 
 ## Demo
 
-asjadanis.github.io/3d-scene/ <br>
+https://asjadanis.github.io/3d-scene/ <br>
 
 ![Alt Text](https://media.giphy.com/media/41cZesgoQA0htyJC7e/giphy.gif)
 
